@@ -4,3 +4,4 @@ token nico
 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
 token maca
 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
+token nico2 : asdasd
